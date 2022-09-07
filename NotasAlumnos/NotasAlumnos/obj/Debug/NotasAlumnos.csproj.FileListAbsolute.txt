@@ -1,0 +1,11 @@
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.exe.config
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.exe
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.pdb
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.Form1.resources
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.Properties.Resources.resources
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.csproj.GenerateResource.cache
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.exe
+C:\Users\Marvi\Desktop\PROGRA ll\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.pdb
